@@ -1,0 +1,16 @@
+.cpage-background {
+  background: linear-gradient(
+    to bottom,
+    #f9f3cc,
+    #8eaccd
+  ); /* Gradient background */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.line-chart {
+  margin: 0 4rem 0 0;
+}
